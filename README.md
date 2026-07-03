@@ -1,77 +1,83 @@
-<h1 align="center">
-  <span style="display: inline-block; transform: rotate(-5deg)">📊</span> Hi there, I'm Junaid Ahamed
-</h1>
+<div align="center">
 
-<h3 align="center" style="font-weight: 600; letter-spacing: 0.5px;">
-  MSc Business Analytics @ University of Wollongong | Turning Data Into Decisions
-</h3>
+# JUNAID AHAMED
+### Business Analytics | Data-Driven Decision Making
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Business+Analytics+Student;Problem+Solver;Data-Driven+Thinker" alt="Typing SVG" />
-</p>
+MSc Business Analytics · University of Wollongong
 
----
+</div>
 
-<h2 align="center">✨ About Me ✨</h2>
+<br>
 
-Welcome to my GitHub! I'm currently pursuing my **MSc in Business Analytics at the University of Wollongong**, building on my technical foundation to bridge the gap between data and business strategy.
+<table align="center" border="0">
+<tr>
+<td align="center"><b>📍 Location</b><br>Dubai, UAE</td>
+<td align="center"><b>🎓 Education</b><br>MSc Business Analytics</td>
+<td align="center"><b>💼 Focus</b><br>Analytics & Strategy</td>
+</tr>
+</table>
 
-📊 **Analytical Thinker** – I focus on interpreting data to uncover trends, support decision-making, and drive measurable business outcomes.
+<br>
 
-🎯 **Strategy-Focused** – My interest lies in applying analytics to optimize operations, improve efficiency, and inform smarter business choices.
+## Profile
 
-📚 **Continuous Learner** – Currently deepening my knowledge in statistics, business intelligence tools, and data-driven strategy through my postgraduate studies.
+I am a Business Analytics postgraduate student with a strong analytical foundation, focused on transforming raw data into actionable business insight. My work combines statistical reasoning, technical fluency, and commercial awareness to support smarter, evidence-based decisions.
 
-🤝 **Collaborative** – Always open to connecting with fellow students, professionals, and mentors in the analytics and business space.
+I'm currently building expertise in business intelligence, quantitative analysis, and strategic problem-solving as part of my studies at the University of Wollongong, with a longer-term goal of working in analytics and consulting roles.
 
----
+<br>
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+## Core Competencies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Category | Skills |
+|---|---|
+| **Data Analysis** | Statistical Analysis · Data Interpretation · Trend Forecasting |
+| **Business Intelligence** | Power BI · Tableau · Excel (Advanced) |
+| **Technical** | SQL · Python (Pandas, NumPy) · Data Visualization |
+| **Business Skills** | Strategic Decision-Making · Process Optimization · Reporting |
 
----
+<br>
 
-<h2 align="center">📈 GitHub Stats</h2>
+## Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="48%" />
-</p>
+<table>
+<tr>
+<td width="200"><b>2025 – Present</b></td>
+<td>
+<b>MSc Business Analytics</b><br>
+University of Wollongong
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="60%" />
-</p>
+<br>
 
----
+## Selected Projects
 
-<h2 align="center">🚀 Featured Projects</h2>
+<table>
+<tr>
+<td width="30%"><b>Stock Market Analysis</b></td>
+<td>Analyzed financial data across AMD, Microsoft, and Apple using Python to identify trends and generate technical insights for investment decision support.</td>
+</tr>
+<tr>
+<td><b>Alumni Association Platform</b></td>
+<td>Contributed to a full-stack platform supporting professional networking and stakeholder engagement, with a focus on user experience and system reliability.</td>
+</tr>
+</table>
 
-### 📈 [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458)
-Extracted and analyzed stock data for AMD, Microsoft, and Apple to generate financial insights using data visualization and technical indicators.
+<br>
 
-### 👨‍🎓 [Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)
-![MEAN Stack](https://img.shields.io/badge/-MEAN_Stack-47A248) ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52) ![Angular](https://img.shields.io/badge/-Angular-DD0031)
-A full-stack platform enabling alumni networking, event management, and professional connections, with a responsive UI and secure authentication.
+## What I Bring
 
-### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)
-A C++ program featuring character profiles, special abilities, and a turn-based battle simulation system.
+- **Analytical rigor** — comfortable working with data to find the "why" behind the numbers
+- **Business fluency** — able to translate technical findings into commercial recommendations
+- **Adaptability** — technical background gives me an edge in tool-agnostic analytics work
+- **Growth mindset** — actively building on prior technical skills through postgraduate study
 
----
+<br>
 
-<p align="center">
-  <i>📍 Currently based in Dubai | Open to Business Analytics opportunities</i>
-</p>
+<div align="center">
+
+*Open to opportunities in Business Analytics, Data Strategy, and Consulting*
+
+</div>
