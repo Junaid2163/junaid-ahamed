@@ -1,114 +1,77 @@
 <h1 align="center">
-  <span style="display: inline-block; transform: rotate(-5deg)">🚀</span> Hi there, I'm Junaid Ahamed
+  <span style="display: inline-block; transform: rotate(-5deg)">📊</span> Hi there, I'm Junaid Ahamed
 </h1>
 
 <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px;">
-  Aspiring Data Scientist | Machine Learning Enthusiast | AI Alchemist
+  MSc Business Analytics @ University of Wollongong | Turning Data Into Decisions
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Business+Analytics+Student;Problem+Solver;Data-Driven+Thinker" alt="Typing SVG" />
+</p>
+
+---
+
 <h2 align="center">✨ About Me ✨</h2>
 
-Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believes in the transformative power of data. My journey into Data Science and AI is fueled by an insatiable curiosity and a commitment to innovation. I specialize in extracting valuable insights from complex datasets, designing predictive models, and building intelligent systems that drive meaningful impact.
+Welcome to my GitHub! I'm currently pursuing my **MSc in Business Analytics at the University of Wollongong**, building on my technical foundation to bridge the gap between data and business strategy.
 
-🔬 **Deep Learning & AI Enthusiast** – Passionate about pushing the boundaries of artificial intelligence, I constantly explore areas like **Generative AI, NLP, and Large Language Models (LLMs)** to develop cutting-edge solutions.
+📊 **Analytical Thinker** – I focus on interpreting data to uncover trends, support decision-making, and drive measurable business outcomes.
 
-📊 **Data-Driven Decision Making** – I thrive on finding patterns in data, translating raw numbers into actionable insights, and solving real-world problems through analytical reasoning and statistical modeling.
+🎯 **Strategy-Focused** – My interest lies in applying analytics to optimize operations, improve efficiency, and inform smarter business choices.
 
-💡 **Building for the Future** – Whether it's optimizing business strategies, automating workflows, or crafting AI-powered applications, my focus is on innovation and scalability.
+📚 **Continuous Learner** – Currently deepening my knowledge in statistics, business intelligence tools, and data-driven strategy through my postgraduate studies.
 
-🚀 **On a Mission** – My goal is to contribute to the ever-evolving AI landscape by collaborating with forward-thinking professionals and continuously learning from the best minds in the industry.
-
-🤝 Let’s connect, discuss ideas, and revolutionize AI together!
+🤝 **Collaborative** – Always open to connecting with fellow students, professionals, and mentors in the analytics and business space.
 
 ---
 
-<h2 align="center">🚀 Technical Skills</h2>
+<h2 align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
-  <!-- Core Technologies from your profile -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <br>
-  
-  <!-- Data Science Stack -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  
-  <br>
-  
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  
-  <br>
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+---
 
 <h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="32%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="48%" />
 </p>
 
-
-### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)  
-*A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate epic fights between their favorite characters!*  
-**Key Features:**  
-- Character profiles with unique attributes  
-- Special jutsu animations  
-- Turn-based battle system  
-
-### 📈 [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458)  
-*Using yfinance library to extract and analyze stock data from AMD, Microsoft, and Apple for financial insights and technical quizzes.*  
-**Tech Stack:**  
-- Yahoo Finance API integration  
-- Data visualization  
-- Technical indicators calculation  
-
-### 👨‍🎓 [Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)  
-![MEAN Stack](https://img.shields.io/badge/-MEAN_Stack-47A248) ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52) ![Angular](https://img.shields.io/badge/-Angular-DD0031)  
-*Full-stack academic project featuring alumni networking, event management, and professional connections.*  
-**Features:**  
-- User authentication system  
-- Responsive UI/UX design  
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=300&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me" />
-</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/junaid-ahamed-664450283" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
-  </a>
-  <a href="https://www.kaggle.com/junaid2163" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010" alt="Kaggle" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
-  </a>
-  <a href="mailto:junaidahamed2163@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
-  </a>
-  <a href="https://github.com/junaidsj" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="60%" />
 </p>
 
 ---
 
-✨ Let’s connect, collaborate, and innovate at the forefront of AI and Data Science! 
-🚀 Together, we can drive meaningful impact and shape the future!!!
- 
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 📈 [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458)
+Extracted and analyzed stock data for AMD, Microsoft, and Apple to generate financial insights using data visualization and technical indicators.
+
+### 👨‍🎓 [Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)
+![MEAN Stack](https://img.shields.io/badge/-MEAN_Stack-47A248) ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52) ![Angular](https://img.shields.io/badge/-Angular-DD0031)
+A full-stack platform enabling alumni networking, event management, and professional connections, with a responsive UI and secure authentication.
+
+### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)
+A C++ program featuring character profiles, special abilities, and a turn-based battle simulation system.
+
+---
+
+<p align="center">
+  <i>📍 Currently based in Dubai | Open to Business Analytics opportunities</i>
+</p>
