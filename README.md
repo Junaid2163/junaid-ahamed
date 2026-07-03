@@ -1,88 +1,164 @@
-<div align="center">
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E3C72,100:2A5298&height=240&section=header&text=Junaid%20Ahamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MSc%20Business%20Analytics%20%7C%20University%20of%20Wollongong&descAlignY=57&descSize=20"/>`{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Junaid%20Ahamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20Analytics%20%7C%20University%20of%20Wollongong&descAlignY=55&descSize=18" />
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2A5298&center=true&vCenter=true&width=900&lines=Business+Analytics+Postgraduate;Turning+Data+Into+Business+Value;Data+Analytics+%7C+Business+Intelligence;Strategy+Driven+Decision+Making"/>`{=html}
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Business+Analytics+Postgraduate;Turning+Data+Into+Business+Decisions;Analytical+%7C+Strategic+%7C+Detail-Oriented" alt="Typing SVG" />
+`<br>`{=html}
 
-</div>
+`<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=2A5298"/>`{=html}
+:::
 
-<br>
+------------------------------------------------------------------------
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2" />
+# 👋 Hello, I'm Junaid Ahamed
 
-## 👤 Profile
+> **Business Analytics Postgraduate \| Data Analytics \| Business
+> Intelligence \| Strategy \| Consulting**
 
-I am a **Business Analytics postgraduate student** at the **University of Wollongong**, focused on transforming raw data into actionable business insight. My work combines statistical reasoning, technical fluency, and commercial awareness to support smarter, evidence-based decisions — with a long-term goal of moving into analytics and consulting roles.
+I am currently pursuing my **Master of Business Analytics** at the
+**University of Wollongong** in Dubai. I enjoy transforming raw data
+into meaningful insights that support business growth, operational
+efficiency, and strategic decision-making.
 
-<br>
+------------------------------------------------------------------------
 
-<table align="center" border="0">
-<tr>
-<td align="center" width="180"><b>📍 Location</b><br>Dubai, UAE</td>
-<td align="center" width="180"><b>🎓 Program</b><br>MSc Business Analytics</td>
-<td align="center" width="180"><b>💼 Focus</b><br>Analytics & Strategy</td>
-</tr>
-</table>
+# 🚀 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2" />
+  ----------------------------------- -----------------------------------
+  🎓 Degree                           MSc Business Analytics
 
-## 🎓 Education
+  🏫 University                       University of Wollongong
 
-| Period | Program | Institution |
-|:--|:--|:--|
-| 2025 – Present | **MSc Business Analytics** | University of Wollongong |
+  📍 Location                         Dubai, UAE
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2" />
+  💼 Interested In                    Business Analytics, BI, Data
+                                      Strategy, Consulting
 
-## 🧠 Core Competencies
+  🌱 Currently Learning               Predictive Analytics, Machine
+                                      Learning, Dashboard Design
 
-<div align="center">
+  🚀 Career Goal                      Analytics Consultant / Business
+                                      Analyst
+  ----------------------------------- -----------------------------------
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+------------------------------------------------------------------------
 
-</div>
+# 🛠 Tech Stack
 
-| Category | Skills |
-|---|---|
-| **Data Analysis** | Statistical Analysis · Data Interpretation · Trend Forecasting |
-| **Business Intelligence** | Power BI · Tableau · Advanced Excel |
-| **Technical** | SQL · Python (Pandas, NumPy) · Data Visualization |
-| **Business Skills** | Strategic Decision-Making · Process Optimization · Reporting |
+### 📊 Analytics
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2" />
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power
+BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## 🚀 Selected Projects
+### 💻 Programming
 
-<table>
-<tr>
-<td width="30%"><b>📈 Stock Market Analysis</b></td>
-<td>Analyzed financial data across AMD, Microsoft, and Apple using Python to identify trends and generate technical insights for investment decision support.</td>
-</tr>
-<tr>
-<td><b>🎓 Alumni Association Platform</b></td>
-<td>Contributed to a full-stack platform supporting professional networking and stakeholder engagement, with a focus on user experience and system reliability.</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2" />
+### ⚙ Tools
 
-## 💡 What I Bring
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
-- **Analytical rigor** — comfortable working with data to find the "why" behind the numbers
-- **Business fluency** — able to translate technical findings into commercial recommendations
-- **Adaptability** — technical background gives an edge in tool-agnostic analytics work
-- **Growth mindset** — actively building on prior technical skills through postgraduate study
+------------------------------------------------------------------------
 
-<br>
+# 📈 GitHub Analytics
 
-<div align="center">
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>`{=html}
 
-<i>Open to opportunities in Business Analytics, Data Strategy, and Consulting</i>
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>`{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" />
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
+
+# 📊 Contribution Activity
+
+::: {align="center"}
+`<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🏆 GitHub Trophies
+
+::: {align="center"}
+`<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&margin-w=15&no-frame=true"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+  -----------------------------------------------------------------------
+  Project                             Description
+  ----------------------------------- -----------------------------------
+  📈 Stock Market Analysis            Financial analysis using Python,
+                                      Pandas, NumPy and visualization
+                                      techniques to evaluate market
+                                      trends.
+
+  🎓 Alumni Association Platform      Full-stack web application
+                                      supporting alumni networking and
+                                      engagement.
+
+  📊 Business Dashboard               Interactive dashboards built using
+                                      Power BI and Excel for KPI
+                                      tracking.
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 🎓 Education
+
+  Year              Qualification
+  ----------------- ----------------------------------------------------
+  2025 -- Present   MSc Business Analytics -- University of Wollongong
+  2024              Bachelor of Computer Applications
+
+------------------------------------------------------------------------
+
+# 📜 Certifications
+
+-   IBM Data Science Professional Certificate
+-   SQL for Data Analytics
+-   Python for Data Science
+
+------------------------------------------------------------------------
+
+# 🎯 Current Focus
+
+-   Business Analytics
+-   Business Intelligence
+-   Data Visualization
+-   Dashboard Development
+-   Predictive Analytics
+-   Consulting
+
+------------------------------------------------------------------------
+
+# 🌐 Connect With Me
+
+::: {align="center"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOURMAIL@example.com)
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💡 *"Without data, you're just another person with an opinion."*
+
+**--- W. Edwards Deming**
+:::
+
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E3C72,100:2A5298&height=120&section=footer"/>`{=html}
